@@ -1,0 +1,28 @@
+{
+  "name": "artbrain",
+  "version": "1.0.0",
+  "description": "assignment for artbrain",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itaytester/artbrain.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itaytester/artbrain/issues"
+  },
+  "homepage": "https://github.com/itaytester/artbrain#readme",
+  "dependencies": {
+    "color-scheme": "^1.0.1",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.2.1",
+    "mongoose": "^6.0.12",
+    "socket.io": "^4.3.1",
+    "theme-colors": "0.0.5"
+  }
+}
