@@ -1,6 +1,3 @@
-# artbrain
-assignment for artbrain
-
 
 # How to Start
 - clone repo.
